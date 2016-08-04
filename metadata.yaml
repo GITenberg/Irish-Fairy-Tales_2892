@@ -1,0 +1,52 @@
+_repo: Irish-Fairy-Tales_2892
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 2892/2892-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Stephens, James
+    alias: Esse, James
+    birthdate: 1882
+    deathdate: 1950
+    gutenberg_agent_id: '670'
+    url: http://www.gutenberg.org/2009/agents/670
+    wikipedia: http://en.wikipedia.org/wiki/James_Stephens
+description: "Irish Fairy Tales is a retelling of ten Irish folktales by the Irish\
+  \ author James Stephens. The English illustrator Arthur Rackham provided interior\
+  \ artwork, including numerous black and white illustrations and sixteen color plates.\
+  \ The stories are set in a wooded, Medieval Ireland filled with larger-than-life\
+  \ hunters, warriors, kings, and fairies. Many stories concern the Fianna and their\
+  \ captain, Fionn mac Uail, from the Fenian Cycle of Irish mythology.\nThe book was\
+  \ first published by Macmillan and Company in 1920. It is one of Stephens' better-known\
+  \ works.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Folklore
+- Fantasy
+- Children's Myths, Fairy Tales, etc.
+gutenberg_issued: '2001-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2892'
+  wikidata: Q6070722
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- Ireland'
+- !lcsh 'Tales -- Ireland'
+- !lcsh 'Folklore -- Ireland'
+- !lcc 'PR'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: The story of Tuan Mac Cairill -- The boyhood of Fionn -- The birth
+  of Bran -- Oisi'n's mother -- The wooing of Becfola -- The little brawl at Allen
+  -- The Carl of the drab coat -- The enchanted cave of Cesh Corran -- Becuma of the
+  white skin -- Mongan's frenzy.
+title: Irish Fairy Tales
+url: http://www.gutenberg.org/ebooks/2892
+wikipedia:
+- https://en.wikipedia.org/wiki/Irish_Fairy_Tales
