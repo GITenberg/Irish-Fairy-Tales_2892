@@ -1,10 +1,8 @@
 _repo: Irish-Fairy-Tales_2892
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 2892/2892-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 2892-h/images/cover.jpg
 creator:
   author:
     agent_name: Stephens, James
@@ -22,6 +20,8 @@ description: "Irish Fairy Tales is a retelling of ten Irish folktales by the Iri
   \ captain, Fionn mac Uail, from the Fenian Cycle of Irish mythology.\nThe book was\
   \ first published by Macmillan and Company in 1920. It is one of Stephens' better-known\
   \ works.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2892#Irish-Fairy-Tales
 gutenberg_bookshelf:
 - Folklore
 - Fantasy
